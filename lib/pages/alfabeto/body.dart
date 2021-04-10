@@ -1,7 +1,6 @@
 import 'package:appp_aprendizado_01/pages/homePage/homepage.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:appp_aprendizado_01/pages/homePage/homepage.dart';
 import 'package:appp_aprendizado_01/constants.dart';
 
 
@@ -138,7 +137,7 @@ class _MyBody extends State<Body> {
                                 child: TextField(
                                   controller: primeiroField,
                                   style: TextStyle(
-                                    fontSize: 30,
+                                    fontSize: 25,
                                   ),
                                 ),
                               ),
@@ -163,7 +162,7 @@ class _MyBody extends State<Body> {
                                 child: TextField(
                                   controller: segundoField,
                                   style: TextStyle(
-                                    fontSize: 30,
+                                    fontSize: 25,
                                   ),
                                 ),
                               ),
@@ -237,7 +236,7 @@ class _MyBody extends State<Body> {
                             child: TextField(
                               controller: terceiroField,
                               style: TextStyle(
-                                fontSize: 30,
+                                fontSize: 25,
                               ),
                             ),
                           ),
@@ -257,12 +256,12 @@ class _MyBody extends State<Body> {
                         Padding(
                           padding: const EdgeInsets.only(top: 25, left: 30),
                           child: Container(
-                            width: 23,
+                            width: 25,
                             height: 18,
                             child: TextField(
                               controller: quartoField,
                               style: TextStyle(
-                                fontSize: 30,
+                                fontSize: 25,
                               ),
                             ),
                           ),
@@ -315,7 +314,7 @@ class _MyBody extends State<Body> {
                             child: TextField(
                               controller: quintoField,
                               style: TextStyle(
-                                fontSize: 30,
+                                fontSize: 25,
                               ),
                             ),
                           ),
@@ -350,7 +349,7 @@ class _MyBody extends State<Body> {
                             child: TextField(
                               controller: sextoField,
                               style: TextStyle(
-                                fontSize: 30,
+                                fontSize: 25,
                               ),
                             ),
                           ),
@@ -403,7 +402,7 @@ class _MyBody extends State<Body> {
                             child: TextField(
                               controller: setimoField,
                               style: TextStyle(
-                                fontSize: 30,
+                                fontSize: 25,
                               ),
                             ),
                           ),
@@ -438,7 +437,7 @@ class _MyBody extends State<Body> {
                             child: TextField(
                               controller: oitavoField,
                               style: TextStyle(
-                                fontSize: 30,
+                                fontSize: 25,
                               ),
                             ),
                           ),
@@ -501,7 +500,7 @@ class _MyBody extends State<Body> {
                             child: TextField(
                               controller: nonoField,
                               style: TextStyle(
-                                fontSize: 30,
+                                fontSize: 25,
                               ),
                             ),
                           ),
@@ -526,7 +525,7 @@ class _MyBody extends State<Body> {
                             child: TextField(
                               controller: decimoField,
                               style: TextStyle(
-                                fontSize: 30,
+                                fontSize: 25,
                               ),
                             ),
                           ),
@@ -569,7 +568,7 @@ class _MyBody extends State<Body> {
                             child: TextField(
                               controller: decimoPrimeiroField,
                               style: TextStyle(
-                                fontSize: 30,
+                                fontSize: 25,
                               ),
                             ),
                           ),
@@ -594,7 +593,7 @@ class _MyBody extends State<Body> {
                             child: TextField(
                               controller: decimoSegundoField,
                               style: TextStyle(
-                                fontSize: 30,
+                                fontSize: 25,
                               ),
                             ),
                           ),
