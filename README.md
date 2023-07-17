@@ -6,4 +6,4 @@
 NOME: GABRIEL GOMIDES DUTRA PAIVA
 CURSO: CIÊNCIA DA COMPUTAÇÃO - PUC MINAS
 
-VÍDEO APRESENTATIVO: https://www.youtube.com/watch?v=hpoeP2r7ZAo
+![image](https://github.com/gomideus/kidsApp-PUC/assets/68978413/7876ac65-5af2-4277-bb7d-514bd0ce1723)
